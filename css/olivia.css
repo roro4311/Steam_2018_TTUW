@@ -1,0 +1,191 @@
+button {
+  background: #000;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px 30px;
+  border-radius: 3px; 
+}
+
+#overlay {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0,0,0,0.8);
+  display: none;
+}
+
+#popup {
+  max-width: 600px;
+  width: 80%;
+  max-height: 300px;
+  height: 80%;
+  padding: 20px;
+  position: relative;
+  background: radial-gradient(circle, red, yellow, black);
+  margin: 20px auto;
+}
+
+#close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  color: #000;
+}
+
+body{
+  background: url('../img/Illuminati1.jpg');
+  background-size:cover;
+  margin:0;
+  }
+  .menu {
+    width:100%;
+    background: darkblue;
+    overflow: auto;
+    }
+  .menu ul {
+    margin:0;
+    padding:0;
+    list-style:none;
+    line-height:60px;
+    }
+  .menu li {
+    float:left;
+    }
+  .menu ul li a {
+    background: darkblue;
+    text-decoration: none;
+    width:130px;
+    display:block;
+    text-align: center;
+    color:white;
+    font-size:18px;
+    font-family: sans-serif;
+    letter-spacing: 0.5px;
+  }
+  .menu li a:hover {
+    color:white;
+    opacity:0.5;
+    font-size:19px;
+  }
+.Sherill{
+    text-align: center;
+    margin:100px;
+  }
+
+.col{
+  text-align: center;
+  width:250px;
+  margin:20px;
+  height: auto;
+  }
+
+.col1 {
+  text-align: center;
+  background: darkblue;
+    display:block;
+    height: auto;
+  }
+
+.Skills{
+  text-align: center;
+    height: auto;
+    width:250px;
+    margin:20px;
+    background: darkblue;
+    display:block;
+  }
+
+.gallery {
+  line-height:60px;
+  text-align: center;
+  font-size:60px;
+}
+.Me {
+  text-align: center;
+  margin:50px;
+  font-size:50px;
+}
+.page {
+  line-height:60px;
+  text-align: center;
+  margin:50px;
+  font-size:25px;
+  color:white;
+  font-family: sans-serif;
+  letter-spacing: 0.5px;
+  text-shadow: 4px 4px 4px #021c44;
+  box-shadow: 4px 4px 4px 4px #021c44, 10px 10px 8px red, 15px 15px 8px green;
+}
+.Blog {
+  line-height:60px;
+  text-align: center;
+  margin:50px;
+  font-size:45px;
+  color:white;
+  font-family: sans-serif;
+  letter-spacing: 0.5px;
+  text-shadow: 5px 5px 5px #021c44;
+}
+.Blog1 {
+  line-height:60px;
+  text-align: center;
+  /*margin:52px;*/
+  font-size:25px;
+  color:white;
+  font-family: sans-serif;
+  letter-spacing: 0.5px;
+  text-shadow: 5px 5px 5px #021c44;
+}
+.Video{
+  line-height:60px;
+  text-align: center;
+  margin:50px;
+  font-size:50px;
+}
+.Positivity {
+  color:white;
+  text-align: center;
+  font-size:50px;
+}
+.Working {
+  color:white;
+  text-align: center;
+  font-size:50px;
+}
+.Sherill1{
+    text-align: center;
+    margin:50px;
+}
+.Change{
+  line-height:60px;
+  text-align: center;
+  margin:100px;
+  font-size:50px;
+}
+.Contact{
+  color:white;
+  text-align: center;
+  font-size:50px;
+}
+.Thanks{
+  line-height:60px;
+  text-align: center;
+  margin:50px;
+  font-size:50px;
+}
+h2 {
+  color:white;
+}
+
+.button_1 {
+  background: #39ff14;
+  color: #ff0101;
+  height: 800px;
+  width: 800px;
+}
